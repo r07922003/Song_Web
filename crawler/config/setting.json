@@ -1,0 +1,55 @@
+{
+    "QQ": {
+        "category_file_name": "category/QQ_category.json",
+        "url": "https://c.y.qq.com/v8/fcg-bin/fcg_v8_toplist_cp.fcg?format=json&outCharset=utf-8&page=detail&type=top&topid=",
+        "toplist_url": "https://c.y.qq.com/v8/fcg-bin/fcg_myqq_toplist.fcg?format=json&outCharset=utf-8&platform=h5",
+        "song_lyric_url": "https://c.y.qq.com/lyric/fcgi-bin/fcg_query_lyric_new.fcg",
+        "song_lyric_params": {
+            "format": "json",
+            "outCharset": "utf-8",
+            "songid": null,
+            "songmid": null
+        },
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+            "Referer": "https://y.qq.com/portal/player.html",
+            "Cookie": "skey=@Y3TD47qBo"
+        }
+    },
+    "Kugou": {
+        "category_file_name": "category/Kugou_category.json",
+        "url": "http://mobilecdnbj.kugou.com/api/v3/rank/song/?json=true&pagesize=100&rankid=",
+        "song_lyric_url": "https://www.kugou.com/yy/index.php?r=play/getdata",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+            "Cookie": "kg_mid=2333"
+        }
+    },
+    "Kuwo": {
+        "category_file_name": "category/kuwo_category.json",
+        "url": "https://www.kuwo.cn/api/www/bang/bang/musicList?pn=1&rn=100&bangId=",
+        "song_lyric_url": "http://m.kuwo.cn/newh5/singles/songinfoandlrc?musicId=",
+        "proxies": {
+            "http": "http://116.117.134.135",
+            "https": "https://116.117.134.135"
+        },
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+            "Referer": "http://www.kuwo.cn/search/list",
+            "csrf": "0HQ0UGKNAKR",
+            "Cookie": "Hm_lvt_cdb524f42f0ce19b169a8071123a4797=1584003311; _ga=GA1.2.208068437.1584003311; _gid=GA1.2.1613688009.1584003311; Hm_lpvt_cdb524f42f0ce19b169a8071123a4797=1584017980; kw_token=0HQ0UGKNAKR; _gat=1"
+        }
+    },
+    "NetEase": {
+        "category_file_name": "category/NetEase_category.json",
+        "url": "https://music.163.com/api//playlist/detail?id=",
+        "toplist_url": "https://music.163.com/api/toplist",
+        "song_lyric_url": "https://music.163.com/api/song/lyric?id=",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+            "Cookie": "skey=@Y3TD47qBo",
+            "csrf_token": "",
+            "referer": "https://music.163.com"
+        }
+    }
+}

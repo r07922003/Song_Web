@@ -1,0 +1,157 @@
+{
+    "6666": {
+        "ID": "1",
+        "rankname": "酷狗飙升榜",
+        "update_frequency": "每天"
+    },
+    "8888": {
+        "ID": "2",
+        "rankname": "酷狗TOP500",
+        "update_frequency": "每天"
+    },
+    "37361": {
+        "ID": "227",
+        "rankname": "酷狗雷达榜",
+        "update_frequency": "工作日"
+    },
+    "23784": {
+        "ID": "65",
+        "rankname": "网络红歌榜",
+        "update_frequency": "周一"
+    },
+    "24971": {
+        "ID": "109",
+        "rankname": "DJ热歌榜",
+        "update_frequency": "周三"
+    },
+    "35811": {
+        "ID": "215",
+        "rankname": "会员专享热歌榜",
+        "update_frequency": "周一"
+    },
+    "31308": {
+        "ID": "35",
+        "rankname": "华语新歌榜",
+        "update_frequency": "工作日"
+    },
+    "31310": {
+        "ID": "36",
+        "rankname": "欧美新歌榜",
+        "update_frequency": "工作日"
+    },
+    "31311": {
+        "ID": "67",
+        "rankname": "韩国新歌榜",
+        "update_frequency": "工作日"
+    },
+    "31312": {
+        "ID": "69",
+        "rankname": "日本新歌榜",
+        "update_frequency": "工作日"
+    },
+    "31313": {
+        "ID": "39",
+        "rankname": "粤语新歌榜",
+        "update_frequency": "工作日"
+    },
+    "33162": {
+        "ID": "123",
+        "rankname": "ACG新歌榜",
+        "update_frequency": "周三"
+    },
+    "21101": {
+        "ID": "30",
+        "rankname": "酷狗分享榜",
+        "update_frequency": "周二"
+    },
+    "30972": {
+        "ID": "167",
+        "rankname": "酷狗音乐人原创榜",
+        "update_frequency": "周三"
+    },
+    "22603": {
+        "ID": "42",
+        "rankname": "5sing音乐榜",
+        "update_frequency": "周一"
+    },
+    "33160": {
+        "ID": "119",
+        "rankname": "电音热歌榜",
+        "update_frequency": "周三"
+    },
+    "21335": {
+        "ID": "32",
+        "rankname": "繁星音乐榜",
+        "update_frequency": "每半个月"
+    },
+    "44412": {
+        "ID": "265",
+        "rankname": "酷狗说唱榜",
+        "update_frequency": "周三"
+    },
+    "33161": {
+        "ID": "79",
+        "rankname": "国风新歌榜",
+        "update_frequency": "周三"
+    },
+    "46910": {
+        "ID": "275",
+        "rankname": "综艺新歌榜",
+        "update_frequency": "周三更新"
+    },
+    "33163": {
+        "ID": "77",
+        "rankname": "影视金曲榜",
+        "update_frequency": "周三"
+    },
+    "33166": {
+        "ID": "193",
+        "rankname": "欧美金曲榜",
+        "update_frequency": "周三"
+    },
+    "33165": {
+        "ID": "38",
+        "rankname": "粤语金曲榜",
+        "update_frequency": "周三"
+    },
+    "36107": {
+        "ID": "217",
+        "rankname": "小语种热歌榜",
+        "update_frequency": "周三"
+    },
+    "4681": {
+        "ID": "10",
+        "rankname": "美国BillBoard榜",
+        "update_frequency": "周四"
+    },
+    "4680": {
+        "ID": "12",
+        "rankname": "英国单曲榜",
+        "update_frequency": "周一"
+    },
+    "4673": {
+        "ID": "8",
+        "rankname": "日本公信榜",
+        "update_frequency": "周三"
+    },
+    "38623": {
+        "ID": "9",
+        "rankname": "韩国Melon音乐榜",
+        "update_frequency": "周一"
+    },
+    "42807": {
+        "ID": "251",
+        "rankname": "joox本地热歌榜",
+        "update_frequency": "周五"
+    },
+    "42808": {
+        "ID": "253",
+        "rankname": "台湾KKBOX风云榜",
+        "update_frequency": "周五"
+    },
+    "46868": {
+        "ID": "273",
+        "rankname": "日本SPACE SHOWER榜",
+        "update_frequency": "周三更新"
+    }
+}
