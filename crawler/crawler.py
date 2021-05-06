@@ -2,7 +2,6 @@ import requests
 import json
 import argparse
 import os
-import requests
 import datetime
 import time
 import base64
